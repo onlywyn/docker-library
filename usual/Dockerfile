@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause:3.2
+FROM k8s.gcr.io/metrics-server/metrics-server:v0.4.1
 MAINTAINER xinzhengShi <onlywyn@126.com>
