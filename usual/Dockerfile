@@ -1,2 +1,2 @@
-FROM calico/kube-controllers:v3.16.0
+FROM kubernetesui/dashboard:v2.1.0
 MAINTAINER xinzhengShi <onlywyn@126.com>
