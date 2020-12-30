@@ -1,2 +1,2 @@
-FROM kubernetesui/dashboard:v2.1.0
+FROM kubernetesui/metrics-scraper:v1.0.6
 MAINTAINER xinzhengShi <onlywyn@126.com>
